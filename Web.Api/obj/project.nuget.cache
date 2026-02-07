@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJt5wgV4rYE=",
+  "success": true,
+  "projectFilePath": "D:\\Eeyore\\EMECI\\EMECISecurityApi\\Web.Api\\Web.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\busta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\busta\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
